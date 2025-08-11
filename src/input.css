@@ -1,0 +1,58 @@
+@import "tailwindcss";
+
+@theme {
+    --color-primary: oklch(1 0 0);
+    --color-text-color: oklch(0.39 0 0);
+    --color-green: oklch(0.65 0.22 157);
+    --color-accent: oklch(0.95 0.01 270);
+    --color-gray: oklch(0.63 0 0);
+    --color-light-green: oklch(0.96 0.03 145);
+}
+
+.btn-login {
+    @apply font-semibold text-green;
+}
+
+.btn-signup,
+.btn-register {
+    @apply bg-green text-white px-4 py-2 rounded;
+}
+
+
+
+
+
+
+:root{
+    --section-bg: #F5F7FA;
+    --shade-1: #43A046;
+    --shade-4: #1B5E1F;
+    --gray: #4D4D4D;
+    --Black: #263238;
+}
+body{
+    color: var(--gray);
+}
+
+.buttons:hover{
+    background-color: var(--shade-4);
+}
+
+.achievements span{
+    color: var(--shade-1);
+}
+
+.buttons{
+    background-color: var(--shade-1);
+}
+
+.header, .Hero, .achievements, .customers, .communityUpdatesContent, .footerPart1{
+    background-color: var(--section-bg);
+}
+.LoginHeader, .HeroLeft span, .dots span, .NavContent a:hover, .customers h3, .meetAllCustomers a, .communityUpdates a{
+    color: var(--shade-1);
+}
+
+.footerPart2{
+    background-color: var(--Black);
+}
