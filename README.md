@@ -9,8 +9,8 @@ A clean, modern, and responsive landing page inspired by a professional Figma de
 - Intuitive layout for an excellent user experience
 
 ## Tech Stack
-- HTML
-- Tailwind CSS
+- **HTML** – for structure and content
+- **Tailwind CSS** – for styling and responsiveness
 
 ## Live Demo
 Check out the live demo here: [Minimal Landing Page](https://rawanessam1.github.io/minimal-landing-tailwind/)
