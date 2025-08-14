@@ -1,5 +1,11 @@
-# Nexcent
-A clean, responsive landing page built with HTML, CSS, and Tailwind CSS.
+# Minimal Landing Page
+
+A clean, modern, and responsive landing page built with **HTML** and **Tailwind CSS**, inspired by a professional Figma design.
+
+## Features
+- Fully responsive layout
+- Minimal and modern design
+- Clean landing page structure
 
 ## Live Demo
-Live Demo : https://rawanessam1.github.io/Nexcent/
+Check out the live demo here: [Minimal Landing Page](https://rawanessam1.github.io/minimal-landing-tailwind/)
